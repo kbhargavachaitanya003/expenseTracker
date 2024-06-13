@@ -1,0 +1,130 @@
+{
+  "expenses": [
+    {
+      "id": "3cde",
+      "title": "Gasoline",
+      "amount": "50",
+      "date": "10-06-2024",
+      "category": "Transportation"
+    },
+    {
+      "id": "4fgh",
+      "title": "Movie Tickets",
+      "amount": "25",
+      "date": "09-06-2024",
+      "category": "Entertainment"
+    },
+    {
+      "id": "5hij",
+      "title": "Lunch",
+      "amount": "15",
+      "date": "08-06-2024",
+      "category": "Food"
+    },
+    {
+      "id": "6klm",
+      "title": "Phone Bill",
+      "amount": "70",
+      "date": "07-06-2024",
+      "category": "Utilities"
+    },
+    {
+      "id": "7nop",
+      "title": "Medicine",
+      "amount": "40",
+      "date": "06-06-2024",
+      "category": "Health"
+    },
+    {
+      "id": "8qrs",
+      "title": "Dinner",
+      "amount": "35",
+      "date": "05-06-2024",
+      "category": "Food"
+    },
+    {
+      "id": "9tuv",
+      "title": "Haircut",
+      "amount": "20",
+      "date": "04-06-2024",
+      "category": "Personal Care"
+    },
+    {
+      "id": "1wxy",
+      "title": "Magazine",
+      "amount": "8",
+      "date": "03-06-2024",
+      "category": "Entertainment"
+    },
+    {
+      "id": "1zab",
+      "title": "Snacks",
+      "amount": "12",
+      "date": "02-06-2024",
+      "category": "Food"
+    },
+    {
+      "id": "2bcd",
+      "title": "Internet Bill",
+      "amount": "60",
+      "date": "01-06-2024",
+      "category": "Utilities"
+    },
+    {
+      "id": "3def",
+      "title": "Clothes",
+      "amount": "800",
+      "date": "31-05-2024",
+      "category": "Shopping"
+    },
+    {
+      "id": "4efg",
+      "title": "Taxi Fare",
+      "amount": "25",
+      "date": "30-05-2024",
+      "category": "Transportation"
+    },
+    {
+      "id": "5ghi",
+      "title": "Gym Membership",
+      "amount": "50",
+      "date": "29-05-2024",
+      "category": "Fitness"
+    },
+    {
+      "id": "6hij",
+      "title": "Concert Tickets",
+      "amount": "75",
+      "date": "28-05-2024",
+      "category": "Entertainment"
+    },
+    {
+      "id": "7ijk",
+      "title": "Coffee",
+      "amount": "5",
+      "date": "27-05-2024",
+      "category": "Food"
+    },
+    {
+      "id": "8jkl",
+      "title": "Car Wash",
+      "amount": "10",
+      "date": "26-05-2024",
+      "category": "Transportation"
+    },
+    {
+      "id": "9klm",
+      "title": "Gift",
+      "amount": "30",
+      "date": "25-05-2024",
+      "category": "Gifts"
+    },
+    {
+      "id": "0lmn",
+      "title": "Laundry",
+      "amount": "15",
+      "date": "24-05-2024",
+      "category": "Utilities"
+    }
+  ]
+}

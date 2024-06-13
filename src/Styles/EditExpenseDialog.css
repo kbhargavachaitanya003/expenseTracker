@@ -1,0 +1,51 @@
+.dialog {
+    padding: 20px;
+}
+
+.dialog-title {
+    font-weight: bold !important;
+    text-align: center;
+}
+
+.dialog-content {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.dialog-form {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 20px !important;
+    margin-top: 20px !important;
+}
+
+.text-field {
+    width: 80%;
+}
+
+.buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.cancel-button {
+    color: #3f51b5 !important;
+    background-color: white !important;
+    width: 40%;
+}
+
+.save-button {
+    background-color: #3f51b5 !important;
+    color: white !important;
+    width: 40%;
+    align-self: center;
+}
+
+.save-button:hover {
+    background-color: #303f9f;
+}
