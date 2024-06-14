@@ -1,7 +1,7 @@
 import React from 'react'
 import { TextField, Button, Box } from '@mui/material'
 import { useForm } from 'react-hook-form'
-import useStore from './Store'
+import useStore from '../Store/Store'
 import { useMutation, useQueryClient } from '@tanstack/react-query'
 import { addExpense } from './api'
 import '../Styles/ExpenseForm.css'
