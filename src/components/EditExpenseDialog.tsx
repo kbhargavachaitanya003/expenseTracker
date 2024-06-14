@@ -1,10 +1,10 @@
 import React from 'react'
-import { Expense } from '../Store'
+import { Expense } from './Store'
 import { useMutation, useQueryClient } from '@tanstack/react-query'
-import { updateExpense } from '../api'
+import { updateExpense } from './api'
 import { useForm } from 'react-hook-form'
 import { Dialog, DialogContent, DialogTitle, TextField, Button } from '@mui/material'
-import useStore from '../Store'
+import useStore from './Store'
 import '../Styles/EditExpenseDialog.css'
 
 interface EditExpenseDialogProps {

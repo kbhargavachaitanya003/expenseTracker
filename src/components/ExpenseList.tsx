@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query';
-import { getExpenses, deleteExpense } from '../api';
-import useStore from '../Store';
+import { getExpenses, deleteExpense } from './api';
+import useStore from './Store';
 import EditIcon from '@mui/icons-material/Edit';
 import DeleteIcon from '@mui/icons-material/Delete';
 import EditExpenseDialog from './EditExpenseDialog';

@@ -7,7 +7,7 @@ import dayjs from 'dayjs';
 import { Button, Card, CardContent, Grid, List, ListItem, ListItemText, Typography } from '@mui/material';
 import { useForm, Controller } from 'react-hook-form';
 import { useQuery } from '@tanstack/react-query';
-import { getExpenses } from '../api';
+import { getExpenses } from './api';
 
 const Summary = () => {
     const { control, handleSubmit } = useForm();

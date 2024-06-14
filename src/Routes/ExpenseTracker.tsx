@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
-import ExpenseForm from './ExpenseForm'
-import ExpenseList from './ExpenseList'
-import Summary from './Summary'
+import ExpenseForm from '../components/ExpenseForm'
+import ExpenseList from '../components/ExpenseList'
+import Summary from '../components/Summary'
 import { Container, Tabs, Tab, Box } from '@mui/material'
 import '../Styles/ExpenseTracker.css'
 const ExpenseTracker = () => {

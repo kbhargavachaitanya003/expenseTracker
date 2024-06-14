@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import ExpenseTracker from './components/ExpenseTracker';
+import ExpenseTracker from './Routes/ExpenseTracker';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 function App() {
