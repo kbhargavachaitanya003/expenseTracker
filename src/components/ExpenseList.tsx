@@ -70,9 +70,9 @@ const ExpenseList = () => {
         }
     };
 
-    if (isLoading) return <div>Loading...</div>;
+    if (isLoading) return <div className='loaderror'>Loading...</div>;
 
-    if (error) return <div>Error in Loading Expenses</div>;
+    if (error) return <div className='loaderror'>Error in Loading Expenses</div>;
 
     return (
         <Container max-width='sm' className='list-container'>

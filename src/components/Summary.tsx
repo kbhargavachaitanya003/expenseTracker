@@ -50,9 +50,9 @@ const Summary = () => {
         setTotalExpense(total);
     };
 
-    if (isLoading) return <div>Loading...</div>
+    if (isLoading) return <div className='loaderror'>Loading...</div>
 
-    if (error) return <div>Error while loading summary</div>
+    if (error) return <div className='loaderror'>Error while loading summary</div>
 
     return (
         <div className="summary-container">

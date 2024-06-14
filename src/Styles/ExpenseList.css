@@ -54,3 +54,11 @@
 .icon-button:hover {
     color: blue;
 }
+
+.loaderror {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin-top: 20px;
+}
